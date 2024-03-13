@@ -1,4 +1,0 @@
-// interface ActionData{
-//     type:string
-
-// }
